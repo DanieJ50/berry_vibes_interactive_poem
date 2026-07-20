@@ -1,2 +1,15 @@
-# berry_vibes_interactive_poem
-Berry Vibes Battle is an interactive poem inspired by Berry Vibes Studio. The project turns my CCD recipes into a playful comparison battle game where each click changes the scores, recipe cards, winner, and poem. The experience connects food, comfort, design, and creativity through a cute app-like interface.
+# Berry Vibes Battle — Interactive Poem
+
+Assignment 4 interactive poem project inspired by Berry Vibes Studio.
+
+## Files
+- index.html
+- css/style.css
+- js/script.js
+- images/BerryBelle.jpg
+
+## How it works
+Choose two CCD recipes and click Start Battle. The page updates the score, recipe cards, winner text, and poem lines using JavaScript.
+
+## Submission
+Submit the live GitHub Pages URL and the GitHub repository link.
